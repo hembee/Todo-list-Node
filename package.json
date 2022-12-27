@@ -1,0 +1,25 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "A todo list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hembee/Todolist-v1.git"
+  },
+  "author": "Dark_Tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hembee/Todolist-v1/issues"
+  },
+  "homepage": "https://github.com/hembee/Todolist-v1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
+}
